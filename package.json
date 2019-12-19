@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anudeepreddy/BeingZero/issues"
   },
-  "homepage": "https://github.com/anudeepreddy/BeingZero#readme"
+  "homepage": "https://github.com/anudeepreddy/BeingZero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
